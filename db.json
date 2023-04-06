@@ -20,5 +20,18 @@
             "IMDB_Rating" : 7.2,
             "ticket" : 200
         }
+    ],
+    "users":[
+        {
+            "username":"Swati",
+            "email":"swati@gmail.com",
+            "password":"swati"
+        }
+    ],
+    "report":[
+        {
+            "username":"Swati",
+            "movie":"Ae Dil Hai Mushkil"
+        }
     ]
 }
